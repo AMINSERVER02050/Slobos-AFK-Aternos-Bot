@@ -31,11 +31,6 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "ANA FEMBOY",
-        "FUCK YOU",
-        "انا GAY",
-        "yamato♡",
-        "انا مترم"
       ]
     },
     "chat-log": true,
@@ -75,8 +70,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1488005609734406147/bE6ragUc8RYXCahduqW-oGgxDFO6FqVyClXvpEDd65AUEvIVF5cj_c16nXmJP1kejXI4",
     "events": {
       "connect": true,
       "disconnect": true,
